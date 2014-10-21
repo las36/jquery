@@ -270,6 +270,11 @@ textarea {
    margin-right: auto;
    border: 1px solid;
 }
+.logo {
+  height: 86px;
+  width: 86px;
+
+}
 #primary_links {
 }
 #primary_links li {
