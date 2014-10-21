@@ -10,8 +10,9 @@
 
 html {
     color: #222;
-    font-size: 1em;
-    line-height: 1.4;
+    font-size: 18px;
+    line-height: 27px;
+    font-family: "Times New Roman", Georgia, Serif;
 }
 
 /*
@@ -277,8 +278,10 @@ textarea {
 }
 #primary_links {
   height: 53px;
+  line-height: 53px;
 
 }
+
 #primary_links li {
 
   display: inline;
@@ -288,9 +291,15 @@ textarea {
   margin: 0px;
 }
 #content {
-  background-color: blue;
-  width: 593px;
+  width: 545px;
   float: left;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+#article_title {
+  height: 87px;
+  line-height: 87px;
+
 }
 
 #sidebar {
