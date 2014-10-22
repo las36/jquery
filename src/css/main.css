@@ -327,6 +327,15 @@ h6 {
   padding-left: 24px;
   padding-right: 24px;
 }
+
+p.first {
+  margin-top: 0px;
+}
+.codercat {
+  float: left;
+  height: 100px;
+  width: 100px;
+}
 #article_title {
   height: 87px;
   line-height: 87px;
