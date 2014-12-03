@@ -1,9 +1,3 @@
-<script type="text/javascript">
-/**
-* Basic jQuery Validation Form Demo Code
-* Copyright Sam Deering 2012
-* Licence: http://www.jquery4u.com/license/
-*/
 (function($,W,D)
 {
 var JQUERY4U = {};
@@ -47,4 +41,3 @@ $(D).ready(function($) {
 JQUERY4U.UTIL.setupFormValidation();
 });
 })(jQuery, window, document);
-</script>
