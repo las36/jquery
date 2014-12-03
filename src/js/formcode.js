@@ -16,7 +16,7 @@ email: true
 },
 password: {
 required: true,
-minlength: 5
+minlength: 8
 },
 agree: "required"
 },
